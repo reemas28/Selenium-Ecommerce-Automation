@@ -21,7 +21,7 @@ This is a Python-based automation tool built with **Selenium WebDriver**. It mim
 ## 🚀 How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/jayanthruthala/Selenium-ecommerce-automation.git](https://github.com/jayanthruthala/Selenium-ecommerce-automation.git)
+    git clone [https://github.com/ReemasFury/Selenium-Ecommerce-Automation.git](https://github.com/ReemasFury/Selenium-Ecommerce-Automation.git)
     ```
 2.  Install Selenium:
     ```bash
